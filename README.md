@@ -13,7 +13,9 @@ Project of BDAD (Databases - 2nd year of Integrated Master Degree in Computer En
 * **Pedro Esteves** - [pemesteves](https://github.com/pemesteves)
 
 **First Submission:** 17.2 (25%)
+
 **Second Submission:** 16.9 (25%)
+
 **Third Submission:** 19.2 (50%)
 
 **Project Grade:** 18.1
